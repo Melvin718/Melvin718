@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Melvin718
 - 👀 I’m interested in ... Photography & Graphic Design
 - 🌱 I’m currently learning ...UX Design & Coding
-- 💞️ I’m looking to collaborate on ... Webflow Projects
+- 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... Ig @MelvinMescudi
 
 <!---
